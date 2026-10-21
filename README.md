@@ -12,3 +12,7 @@ In Flex 4, I calculated Line Price by hand for each individual sales line by div
 
 MIS 561, 10/12/2026 https://public.tableau.com/views/PowerBITrainingCertifications_17906616560850/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 Power BI has some advantages compared to Tableau with ease of use for slicers, which are vastly easier to set up and use out of the gate. There is also no equivalent that I know of to the drill-down treemap, which offers a dynamic multi-level exploration. By moving from static workbooks to this interactive model, Marcus and Anita no longer need to rely on manual updates or requests to me. Instead, they get an auto-refreshing, self-service dashboard that lets them slice performance live in meetings.
+
+Card Portfolio Review – Contactless Readiness. Which specific batch of non-contactless cards should Bear Down Bank replace early using available year-end budget, how many cards are in that batch, and what is the total cost? 
+https://public.tableau.com/views/CardPortfolioReview_17925607460420/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+If I could do it again I probably would of made navigation buttons linked to every other dashboard. I kind of hate the look of the map as well but I would need to consider how to redo that.
