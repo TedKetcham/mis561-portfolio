@@ -34,3 +34,16 @@ When given the prompt “Making a logo, need something for 'Catalyst Data' just 
 Reference
 
 OpenAI. (2026). ChatGPT (GPT-6 version, with image generation, November 3rd, 2026) [Generative AI tool]. https://chatgpt.com/ **
+
+**November 17, 2026 Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve $240 from remaining year-end budget to replace 30 non-contactless credit cards expiring in 2029 and 2030, accelerating the full contactless rollout by two years.
+
+[Pitch deck (PDF)] (https://github.com/TedKetcham/mis561-portfolio/blob/main/adobe-express/ketcham-product-pitch.pdf) Adobe Express [Adobe Express] (https://express.adobe.com/publishedV2/urn:aaid:sc:US:33aebf09-9651-5cc1-ba1a-ec2fd80fd426?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Toughest objection: "Why focus on only 30 credit cards in 2029–2030 when over 1,600 debit and prepaid cards are expiring in 2026–2027?" Slide 5 answers this directly: the 2026–2027 cards already turn over naturally within 24 months at $12,864 in scheduled renewal costs, whereas the 30 credit cards are the sole bottleneck delaying completion to 2030 and cost only $240 to clear now.
+
+AI use: Besides the wordmark I credited above this entry, I ironically used no AI as I had no credits to do anything particularly interesting with it besides make kind of bad backgrounds which did not make the final cut.
+
+Training completed: November 17, 2026
+
