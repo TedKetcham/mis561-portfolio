@@ -47,3 +47,13 @@ AI use: Besides the wordmark I credited above this entry, I ironically used no A
 
 Training completed: November 17, 2026
 
+**Month day (#), 2026 · Brand Standard Application in Tableau**
+
+Rebranded a public IMDb movie dashboard, then built an internal brief for Priya Natarajan, Editorial Director for IMDb Originals: should IMDb Originals fund a recurring video series on non-English-language movies, and which languages should it feature first?
+
+https://public.tableau.com:9443/views/TedKetchamBrandStandardApplicationinTableau/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+One thing I'd change: I would choose the dark theme and verify color contrast ratios before formatting individual sheets so text and mark colors do not have to be reworked mid-build.
+
+
+
